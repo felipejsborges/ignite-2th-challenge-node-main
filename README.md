@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<h1>SOLID</h1>
+	<h1>SOLID and Swagger</h1>
 </div>
 
 ### Summary
@@ -13,11 +13,13 @@
 - [About the challenge](#about-the-challenge)
 
 - [Tests](#Tests)
+
+- [Docs](#Docs)
 <hr>
 
 ### About the challenge
 
-- A CRUD of users. The intention is to practice SOLID principles. [Click here](https://github.com/felipejsborges/ignite-2th-challenge-node-main/commit/b4c45e542c357b094aad8e048d0e923707909cc2) to see the implementation.
+- A CRUD of users. The intention is to practice SOLID principles and create API documentation using Swagger. [Click here](https://github.com/felipejsborges/ignite-2th-challenge-node-main/commit/b4c45e542c357b094aad8e048d0e923707909cc2) to see the implementation of the CRUD. And [click here](https://github.com/felipejsborges/ignite-2th-challenge-node-main/commit/db827cfdafc29bf44563ee6a4af8652ebf0f7f82) to see the implementation of the documentation
 <hr>
 
 ### Tests
@@ -54,6 +56,12 @@
  
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.jpeg" alt="tests" style="max-width:80%"/>
+</div>
+<hr>
+
+### Docs
+<div align="center" style="margin-top: 16px;">	
+	<img src="./.github/swagger.gif" alt="docs" style="max-width:80%"/>
 </div>
 <hr>
 
